@@ -1,0 +1,5 @@
+lang[“DPLA”]
+Event[onLaunch]:(
+  Name = input[“Name: ”]
+  command_print[“Hello ”+ name +”!”]
+)
